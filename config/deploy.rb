@@ -1,3 +1,4 @@
+
 require "bundler/capistrano"
   
 server "14.63.185.146", :web, :app, :db, primary: true
