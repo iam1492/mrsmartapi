@@ -9,4 +9,4 @@
 
 # Make sure your secret_key_base is kept private
 # if you're sharing your code publicly.
-Mrsmart::Application.config.secret_token = 'c267548921a8e4b342b45e5743ee7027b6c6df0045dae3fb1bc2fb1ee3bf24f3f052c725992e171bc386f8c1802563a8f469ea71560a64fb6b06f2b33194ec53'
+Mrsmart::Application.config.secret_key_base = 'c267548921a8e4b342b45e5743ee7027b6c6df0045dae3fb1bc2fb1ee3bf24f3f052c725992e171bc386f8c1802563a8f469ea71560a64fb6b06f2b33194ec53'
